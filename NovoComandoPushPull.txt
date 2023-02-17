@@ -1,0 +1,3 @@
+Push , Pull
+push :push é empurrar, então o git push empurra, leva as alterações do repositório local para o remoto
+pull: traz as alterações de um repositório remoto para o local.
