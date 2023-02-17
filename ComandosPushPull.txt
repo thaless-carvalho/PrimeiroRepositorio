@@ -1,0 +1,4 @@
+Comandos Push Pull:
+
+push: significa empurrar, corresponde ao ato de enviar do repositorio local para o repositorio remoto 
+pull :
